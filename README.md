@@ -1,10 +1,10 @@
 ## Hi there, I'm Duong (Nguyễn Hải Dương)! 👋
 
-I am a student and a **DevOps/Cloud Engineer** (also known as **DuongBill** or **Traitimtanvo**).
+I am a student (also known as **DuongBill** or **Traitimtanvo**).
 I focus on building practical web applications, experimenting with AI/Machine Learning, and sharing what I learn.
 
 * 🎓 Currently studying **Information Technology** at **Electric Power University** (2022 - Present).
-* 🌱 I'm currently focusing on web projects, AI/ML, and learning to become a **DevOps/Cloud Engineer**.
+* 🌱 I'm currently focusing on web projects, AI/ML.
 * 👯 I'm open to collaborating on **React/Node.js** or **Python/Django** projects.
 * 📫 How to reach me: [billduongg@gmail.com](mailto:billduongg@gmail.com)
 * 😄 Pronouns: He/Him
