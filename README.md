@@ -46,10 +46,6 @@ An IoT and AI-integrated ecosystem for educational STEM kits.
 * **Core:** Monitoring water quality (pH, Turbidity, Temp) using **ESP32**.
 * **Tech:** Real-time data visualization with a modern dashboard and AI analysis.
 
-### 📊 Tham Mưu Dashboard (MH Digital)
-Enterprise-level dashboard for summary logs and data management.
-* **Tech:** Angular, Tailwind CSS, RESTful API.
-
 ### 💡 Đèn Hải Đăng LC
 E-commerce platform for decorative lighting with a full admin suite.
 * **Tech:** React (Vite), Node.js, MongoDB.
