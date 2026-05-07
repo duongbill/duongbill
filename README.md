@@ -1,16 +1,17 @@
-## Hi there, I'm Duong (Nguyễn Hải Dương)! 👋
+Hi there, I'm Duong (Nguyễn Hải Dương)! 👋
+I am a Front-end Developer working towards becoming a Full-stack Developer.
+I have a strong passion for building intuitive, high-performance user interfaces and am currently expanding my expertise in server-side technologies to build complete, scalable solutions.
 
-I am a **Full-stack Developer Fresher**  (also known as **DuongBill**).
-I focus on building practical web applications, experimenting with AI, and developing smart IoT ecosystems for environmental monitoring.
+🎓 Currently studying Information Technology at Electric Power University (2022 - Present).
 
-* 🎓 Currently studying **Information Technology** at **Electric Power University** (2022 - Present).
-* 🌱 Now deep diving into **Angular**, **Java Spring Boot**
-* English: B1 certificate.
-* 🇯🇵 Pursuing **Japanese N3** proficiency.
-* 📫 Reach me: [billduongg@gmail.com](mailto:billduongg@gmail.com)
+💻 Primary Focus: Building modern web interfaces with Angular and React.
 
+🌱 Current Path: Enhancing my Back-end foundation with Java Spring Boot to achieve a Full-stack mindset.
+🇬🇧 English: B1.
+🇯🇵 Pursuing Japanese N3 proficiency 
+
+📫 Reach me: billduongg@gmail.com
 ---
-
 ## 🛠️ My Tech Stack & Tools
 
 ### 🔧 Full-stack Development
