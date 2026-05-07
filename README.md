@@ -7,8 +7,10 @@ I have a strong passion for building intuitive, high-performance user interfaces
 💻 Primary Focus: Building modern web interfaces with Angular and React.
 
 🌱 Current Path: Enhancing my Back-end foundation with Java Spring Boot to achieve a Full-stack mindset.
+
 🇬🇧 English: B1.
-🇯🇵 Pursuing Japanese N3 proficiency 
+
+🇯🇵 Japanese: N5 ( Pursuing Japanese N3 proficiency ).
 
 📫 Reach me: billduongg@gmail.com
 ---
